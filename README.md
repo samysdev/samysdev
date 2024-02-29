@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @samysdev
-- 😄 Pronouns: she/her
 
 
 <!---
